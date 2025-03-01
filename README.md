@@ -69,6 +69,10 @@ A full-stack real-time communication web application that enables text chat, aud
 - Rate limiting
 - Room access control
 
+## Project Video
+
+https://drive.google.com/file/d/1836L3XmuGBYbSX0ZUM8bWFx-gDO7jJ59/view?usp=sharing
+
 ## Project Structure
 
 ```
