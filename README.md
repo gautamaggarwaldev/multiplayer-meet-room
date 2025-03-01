@@ -71,7 +71,7 @@ A full-stack real-time communication web application that enables text chat, aud
 
 ## Project Video
 
-https://drive.google.com/file/d/1836L3XmuGBYbSX0ZUM8bWFx-gDO7jJ59/view?usp=sharing
+https://github.com/user-attachments/assets/949e9318-b5b7-47d9-b479-351c58bbf815
 
 ## Project Structure
 
